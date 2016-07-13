@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="title_activity_game">Finger Dance</string>
+    <string name="submit">SUBMIT</string>
+    <string name="chooseTiles">Select Tiles</string>
+    <string name="results">Results</string>
+    <string name="action_share">Share</string>
+    <string name="selectNumberOfTiles">Select the number of tiles</string>
+</resources>
